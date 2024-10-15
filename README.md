@@ -14,7 +14,7 @@ A mini arduino project that we can set alarm clock and play melody for the alarm
 
 ## Contributors
 
-- [Archawit Changtor](https://github.com/kittipattan)
+- [Archawit Changtor](https://github.com/archawitch)
 - [Pakapon Rattanasrisuk](https://github.com/PakaponRattanasrisuk)
 
 ## Related Course
